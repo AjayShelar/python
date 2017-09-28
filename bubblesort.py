@@ -11,5 +11,5 @@ for i in range(len(list)):
 			list[x] = list[x-1]
 			list[x-1] = temp
 	
-	
+
 print(list)
