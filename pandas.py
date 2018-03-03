@@ -15,3 +15,6 @@ print(pd.DataFrame(my_df))
 # Take a Series as input to your DataFrame
 my_series = pd.Series({"United Kingdom":"London", "India":"New Delhi", "United States":"Washington", "Belgium":"Brussels"})
 print(pd.DataFrame(my_series))
+
+
+
